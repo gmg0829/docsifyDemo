@@ -1,4 +1,4 @@
 - Java
-  - [ArrayList/Vector](Java/guide)
+  - [引导](Java/guide)
 - Python
-  - [多线程中的常见问题](Python/guide)
+  - [引导](Python/guide)
